@@ -1,2 +1,2 @@
 # HoshiBack
-尝试使用 Koin 搭建的后台
+尝试使用 Ktor 搭建的后台
